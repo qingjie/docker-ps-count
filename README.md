@@ -1,1 +1,4 @@
-# docker-ps-count
+
+```
+docker ps -q | wc -l
+```
